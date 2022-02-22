@@ -19,3 +19,7 @@ void print(int len, int wth) {
 }
 
 // Implement the Input Function here
+void print(int len, int wth) {
+  cin>>len;
+  cin>>wth;
+}
